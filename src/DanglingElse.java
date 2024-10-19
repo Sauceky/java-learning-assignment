@@ -50,6 +50,7 @@ public class DanglingElse {
                 System.out.println("#####");
             }
             System.out.println("$$$$$");
+            System.out.println("$$$$$");
         }
     }
 
